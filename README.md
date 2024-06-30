@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Housing Price Prediction Model
 
 Welcome to the Housing Price Prediction Model project! This repository contains the code and documentation for a machine learning model designed to predict housing prices based on various features of houses and their surrounding areas.
@@ -74,13 +71,10 @@ To use the model for predicting housing prices, run the following command:
 python predict.py --input data/input_data.csv --output results/predictions.csv
 ```
 
-Replace `data/input_data.csv` with the path to your input data file and `results/predictions.csv` with the desired output file path.
+Replace data/input_data.csv with the path to your input data file and results/predictions.csv with the desired output file path.
 
 ## Contributing
-We welcome contributions to this project! If you have suggestions or improvements, please open an issue or submit a pull request.
+We welcome contributions to this project! If you have suggestions or improvements, please open an issue or submit a pull request. If you fork this repository, please tag to [Kunal Parkhade](https://github.com/KunalParkhade).
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README provides a comprehensive overview of the project, instructions for installation and usage, and guidelines for contributing. You can copy and paste this into your `README.md` file in your GitHub repository.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KunalParkhade/predict_housing_price/blob/main/LICENSE) file for details.
