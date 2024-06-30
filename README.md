@@ -78,3 +78,6 @@ We welcome contributions to this project! If you have suggestions or improvement
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/KunalParkhade/predict_housing_price/blob/main/LICENSE) file for details.
+
+---
+Edited by **Kunal Parkhade**
