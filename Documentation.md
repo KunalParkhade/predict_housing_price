@@ -68,3 +68,5 @@ After getting approval to launch, we polished the code, wrote documentation, and
 ---
 
 This documentation provides a comprehensive overview of the project, highlighting key learnings, methodologies, and results. For a detailed step-by-step guide, please refer to the notebook.
+
+Documented by [Kunal Parkhade](https://github.com/KunalParkhade).
